@@ -6,5 +6,5 @@
   "issues": "mailto:hosts@someonewhocares.org",
   "url": "https://someonewhocares.org/hosts/zero/hosts",
   "license": "non-commercial with attribution",
-  "pause": true
+  "pause": false
 }
