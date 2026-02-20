@@ -1,15 +1,18 @@
 {
   description = "Unified hosts file with base extensions.";
-  outputs = { self, nixpkgs, ... }@inputs:
+  outputs =
+    {
+      self,
+      nixpkgs,
+      ...
+    }:
     let
       forAllSystems = nixpkgs.lib.genAttrs nixpkgs.lib.platforms.unix;
-
-      nixpkgsFor = forAllSystems (system: import nixpkgs {
-        inherit system;
-      });
+      nixpkgsFor = forAllSystems (system: import nixpkgs { inherit system; });
     in
     {
-      nixosModule = { config, ... }:
+      nixosModule =
+        { config, ... }:
         let
           inherit (nixpkgs) lib;
           cfg = config.networking.stevenBlackHosts;
@@ -35,21 +38,30 @@
           config = lib.mkIf cfg.enable {
             networking.extraHosts =
               let
-                orig = builtins.readFile ("${self}/" + (lib.optionalString (alternatesList != []) alternatesPath) + "hosts");
+                orig = builtins.readFile (
+                  "${self}/" + (lib.optionalString (alternatesList != [ ]) alternatesPath) + "hosts"
+                );
                 ipv6 = builtins.replaceStrings [ "0.0.0.0" ] [ "::" ] orig;
               in
               lib.mkAfter (orig + (lib.optionalString cfg.enableIPv6 ("\n" + ipv6)));
           };
         };
 
-      devShells = forAllSystems (system:
-        let pkgs = nixpkgsFor.${system}; in
+      devShells = forAllSystems (
+        system:
+        let
+          pkgs = nixpkgsFor.${system};
+        in
         {
           default = pkgs.mkShell {
-            buildInputs = with pkgs; [
-              python3
-              python3Packages.flake8
-              python3Packages.requests
+            packages = with pkgs; [
+              nixfmt
+              (python3.withPackages (
+                pythonPackages: with pythonPackages; [
+                  flake8
+                  requests
+                ]
+              ))
             ];
           };
         }
