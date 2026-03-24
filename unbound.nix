@@ -1,19 +1,13 @@
 {
-  stdenvNoCC,
+  runCommandLocal,
 }:
-stdenvNoCC.mkDerivation {
-  name = "stevenblack-hosts-unbound";
-  src = ./.;
-
-  installPhase =
-    let
-      toUnboundConf = ''awk 'NF == 2 && $1 == "0.0.0.0" && $2 != "0.0.0.0" { printf "local-zone: \"%s\" always_nxdomain\n", $2 }'\'';
-    in
-    ''
-      mkdir $out
-      cat $src/hosts | ${toUnboundConf} > $out/hosts
-      for file in alternates/*/hosts; do
-        cat $file | ${toUnboundConf} > $out/$(basename $(dirname $file))
-      done
-    '';
-}
+let
+  toUnboundConf = ''awk 'NF == 2 && $1 == "0.0.0.0" && $2 != "0.0.0.0" { printf "local-zone: \"%s\" always_nxdomain\n", $2 }'\'';
+in
+runCommandLocal "stevenblack-hosts-unbound" { src = ./.; } ''
+  mkdir $out
+  ${toUnboundConf} < $src/hosts > $out/hosts
+  for file in alternates/*/hosts; do
+    ${toUnboundConf} < $file > $out/$(basename $(dirname $file))
+  done
+''
