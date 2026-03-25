@@ -7,7 +7,7 @@ in
 runCommandLocal "stevenblack-hosts-unbound" { src = ./.; } ''
   mkdir $out
   ${toUnboundConf} < $src/hosts > $out/hosts
-  for file in alternates/*/hosts; do
+  for file in $src/alternates/*/hosts; do
     ${toUnboundConf} < $file > $out/$(basename $(dirname $file))
   done
 ''
