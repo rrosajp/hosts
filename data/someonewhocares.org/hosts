@@ -10,7 +10,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sat, 21 Mar 2026 at 18:57:46 GMT
+# Last updated: Wed, 25 Mar 2026 at 16:02:52 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2215,6 +2215,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 istartsurf.com
 0.0.0.0 iswwwup.com
 0.0.0.0 itbeginner.fr
+0.0.0.0 itc.InsightTrailco.com
 0.0.0.0 itprfft.sa.com
 0.0.0.0 itssure.shop
 0.0.0.0 ivgault.fr
@@ -2239,6 +2240,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 juventuis.fr
 0.0.0.0 kabookk.fr
 0.0.0.0 kanojo.fr
+0.0.0.0 kantoexuziiv.com
 0.0.0.0 kartables.fr
 0.0.0.0 kaytri.com
 0.0.0.0 keepass.com
@@ -2848,6 +2850,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 saicmotor.fr
 0.0.0.0 sajour.fr
 0.0.0.0 salebestever.su
+0.0.0.0 salezone.sa.com
 0.0.0.0 santanderbank.fr
 0.0.0.0 saouryadi.in
 0.0.0.0 sartoriz.fr
@@ -3230,6 +3233,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.avemoo.com
 0.0.0.0 www.azureus.es
 0.0.0.0 www.baiakstyle.com
+0.0.0.0 www.bandexperts.com
 0.0.0.0 www.barjacity.com
 0.0.0.0 www.baseequip.com
 0.0.0.0 www.bazarusmassazha.com
@@ -3250,6 +3254,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.briidgeapp.com
 0.0.0.0 www.briskappmu.name
 0.0.0.0 www.bucahssana.com
+0.0.0.0 www.builtinfo.com
 0.0.0.0 www.bumerang.cc
 0.0.0.0 www.bvcnle.cfd
 0.0.0.0 www.cablyshaw.com
@@ -3269,6 +3274,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.chichomods.com
 0.0.0.0 www.ciderbayoulg.pro
 0.0.0.0 www.ciderglowcm.site
+0.0.0.0 www.cidersunjt.com
 0.0.0.0 www.cjkassociates.co.in
 0.0.0.0 www.clearacreonline.com
 0.0.0.0 www.clearalgorithm.com
@@ -3278,6 +3284,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.clonezilla.fr
 0.0.0.0 www.cloudverge.uk
 0.0.0.0 www.clubplanning.com
+0.0.0.0 www.coconutsport.com
 0.0.0.0 www.coinimp.com
 0.0.0.0 www.combinebasic.com
 0.0.0.0 www.comfortykive.xyz
@@ -3293,6 +3300,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.dayanitastore.com
 0.0.0.0 www.dealresponse.com
 0.0.0.0 www.dejamesertuvoz.com
+0.0.0.0 www.dentistkids.com
 0.0.0.0 www.deperiodista.com
 0.0.0.0 www.dewcoreaj.pro
 0.0.0.0 www.dewwillowwj.site
@@ -3330,7 +3338,9 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.firsttrchfed.com
 0.0.0.0 www.fischereszter.hu
 0.0.0.0 www.fixedshine.com
+0.0.0.0 www.fixingfast.com
 0.0.0.0 www.flexibleadmin.com
+0.0.0.0 www.fluffyappyp.com
 0.0.0.0 www.fluidfiber.com
 0.0.0.0 www.fmoviehd.com
 0.0.0.0 www.forexwood.com
@@ -3383,12 +3393,14 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.helvax.cfd
 0.0.0.0 www.helvora.help
 0.0.0.0 www.hiewa.com.my
+0.0.0.0 www.higherteam.com
 0.0.0.0 www.hitchedbridalandformalwear.com
 0.0.0.0 www.hits-football.com
 0.0.0.0 www.hugesector.com
 0.0.0.0 www.hunterspeed.com
 0.0.0.0 www.hypeprop.com
 0.0.0.0 www.icecars.com
+0.0.0.0 www.icygrovejn.com
 0.0.0.0 www.icyhivemy.name
 0.0.0.0 www.iejonline.com
 0.0.0.0 www.igameup.com
@@ -3430,15 +3442,18 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.lemoncascadexq.name
 0.0.0.0 www.libanco.com
 0.0.0.0 www.lightcontest.com
+0.0.0.0 www.lightstylist.com
 0.0.0.0 www.likeportal.com			# Facebook trojan
 0.0.0.0 www.likespike.com			# Facebook trojan
 0.0.0.0 www.likethis.mbosoft.com		# Facebook trojan
 0.0.0.0 www.likethislist.biz			# Facebook trojan
 0.0.0.0 www.loansfield.com
 0.0.0.0 www.lockupouseburn.com
+0.0.0.0 www.loginhunter.com
 0.0.0.0 www.logoradar.com
 0.0.0.0 www.lomalindasda.org			# Facebook trojan
 0.0.0.0 www.lostbestsgames.com
+0.0.0.0 www.lunargrovefx.com
 0.0.0.0 www.magento-analytics.com
 0.0.0.0 www.maillazy.com
 0.0.0.0 www.makearestaurant.com
@@ -3482,6 +3497,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.olimpgokart.com
 0.0.0.0 www.oliviathemes.com
 0.0.0.0 www.opalcasinohotel.com
+0.0.0.0 www.opencharms.com
 0.0.0.0 www.openinternetexchange.com
 0.0.0.0 www.oppery.com
 0.0.0.0 www.otsserver.com
@@ -3567,11 +3583,14 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.simplyartful.com
 0.0.0.0 www.simplyhelper.com
 0.0.0.0 www.sinera.org
+0.0.0.0 www.sizecart.com
 0.0.0.0 www.skibidihotel.com
 0.0.0.0 www.smashchampionsat.com
 0.0.0.0 www.smionecare.com
 0.0.0.0 www.smokyshadecj.name
+0.0.0.0 www.snowhandball.com
 0.0.0.0 www.snurrlyspin.com
+0.0.0.0 www.softcarp.com
 0.0.0.0 www.softmillon.com
 0.0.0.0 www.spectrumhomehealthinc.com
 0.0.0.0 www.sporttile.com
@@ -3579,18 +3598,23 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.statsff.com
 0.0.0.0 www.stellarium.fr
 0.0.0.0 www.stihil.com
+0.0.0.0 www.stocksrate.com
 0.0.0.0 www.stopphoulplay.com
 0.0.0.0 www.stormhelix.uk
 0.0.0.0 www.strongarchzu.com
 0.0.0.0 www.studioorientbay.com
+0.0.0.0 www.stylistnet.com
+0.0.0.0 www.subwayfast.com
 0.0.0.0 www.supportnestframe.uk
 0.0.0.0 www.supportwindowlane.uk
 0.0.0.0 www.swallowwire.sa.com
 0.0.0.0 www.sweetdominique.com
+0.0.0.0 www.sweetdreamiu.com
 0.0.0.0 www.sweetiesecrets.com
 0.0.0.0 www.tanger.com.br
 0.0.0.0 www.tattnexa.tattoo
 0.0.0.0 www.tattooshaha.info			# Facebook trojan
+0.0.0.0 www.teafortune.com
 0.0.0.0 www.techadvisorpro.name
 0.0.0.0 www.tenantbackgronudsearch.com
 0.0.0.0 www.thecollectiverd.com
@@ -3628,6 +3652,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.walkhelp.net
 0.0.0.0 www.wantsfly.com
 0.0.0.0 www.warrenmovers.net
+0.0.0.0 www.waterchalk.com
 0.0.0.0 www.waterchamber.com
 0.0.0.0 www.webassembly.stream
 0.0.0.0 www.webpartition.com
