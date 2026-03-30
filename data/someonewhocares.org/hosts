@@ -10,7 +10,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Wed, 25 Mar 2026 at 16:02:52 GMT
+# Last updated: Sun, 29 Mar 2026 at 15:56:56 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2374,6 +2374,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 livezfoot.fr
 0.0.0.0 livreral.fr
 0.0.0.0 livrval.fr
+0.0.0.0 livsffer.sa.com
 0.0.0.0 localo.fr
 0.0.0.0 login.creditals-email.space
 0.0.0.0 logitrave.fr
@@ -3208,7 +3209,9 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.a2uu36g43l.download
 0.0.0.0 www.abetterinternet.com
 0.0.0.0 www.abnehmenkabofit.de
+0.0.0.0 www.activetrap.com
 0.0.0.0 www.adblock.fr
+0.0.0.0 www.adselector.com
 0.0.0.0 www.adshufffle.com
 0.0.0.0 www.aerodriftcore.uk
 0.0.0.0 www.airmedcarennetwork.com
@@ -3216,9 +3219,11 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.airypathsq.name
 0.0.0.0 www.akundu.com
 0.0.0.0 www.alexyastro.com
+0.0.0.0 www.alittlelewd.com
 0.0.0.0 www.allhqpics.com			# Facebook trojan
 0.0.0.0 www.allscrabble.com
 0.0.0.0 www.allstateproteectionplans.com
+0.0.0.0 www.allusermanual.com
 0.0.0.0 www.anatol.com
 0.0.0.0 www.apcort.com
 0.0.0.0 www.aramcom.space
@@ -3235,6 +3240,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.baiakstyle.com
 0.0.0.0 www.bandexperts.com
 0.0.0.0 www.barjacity.com
+0.0.0.0 www.basealloys.com
 0.0.0.0 www.baseequip.com
 0.0.0.0 www.bazarusmassazha.com
 0.0.0.0 www.bbyjgkkdihiyxy.com
@@ -3246,8 +3252,10 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.bigantstore.com
 0.0.0.0 www.blazesemipvp.com
 0.0.0.0 www.blender3d.fr
+0.0.0.0 www.blogmaking.com
 0.0.0.0 www.bmrneswk.com
 0.0.0.0 www.board-ly.com
+0.0.0.0 www.bookstadium.com
 0.0.0.0 www.brandsclothingco.com
 0.0.0.0 www.brghterimagelab.com
 0.0.0.0 www.brightstardv.pro
@@ -3270,12 +3278,15 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.celestia.es
 0.0.0.0 www.celestia.fr
 0.0.0.0 www.centeralbidding.com
+0.0.0.0 www.checkdrivers.com
+0.0.0.0 www.checkpics.com
 0.0.0.0 www.chelick.net			# Facebook trojan
 0.0.0.0 www.chichomods.com
 0.0.0.0 www.ciderbayoulg.pro
 0.0.0.0 www.ciderglowcm.site
 0.0.0.0 www.cidersunjt.com
 0.0.0.0 www.cjkassociates.co.in
+0.0.0.0 www.claimedmoney.com
 0.0.0.0 www.clearacreonline.com
 0.0.0.0 www.clearalgorithm.com
 0.0.0.0 www.clickrents.com
@@ -3295,6 +3306,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.cpatglobal.com
 0.0.0.0 www.cprcar.com
 0.0.0.0 www.crowdnestfun.com
+0.0.0.0 www.dailyazure.com
 0.0.0.0 www.darkrro.com
 0.0.0.0 www.dartya.com
 0.0.0.0 www.dayanitastore.com
@@ -3323,6 +3335,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.ethicsstore.com
 0.0.0.0 www.exambased.com
 0.0.0.0 www.expolearn.com
+0.0.0.0 www.expressmails.com
 0.0.0.0 www.exteriorteam.com
 0.0.0.0 www.extrabrick.com
 0.0.0.0 www.exvaro.cfd
@@ -3333,6 +3346,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.fhtmmeeting.com
 0.0.0.0 www.filezilla.fr
 0.0.0.0 www.findalgorithm.com
+0.0.0.0 www.findalign.com
 0.0.0.0 www.findlobster.com
 0.0.0.0 www.fingertimer.com
 0.0.0.0 www.firsttrchfed.com
@@ -3355,6 +3369,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.froling.bee.pl
 0.0.0.0 www.furcomics.com
 0.0.0.0 www.futuredecide.com
+0.0.0.0 www.futureowned.com
 0.0.0.0 www.gadgetbonanzamarket.com
 0.0.0.0 www.gainwintz.com
 0.0.0.0 www.gameqnt.com
@@ -3362,6 +3377,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.gandiatv.com
 0.0.0.0 www.gavelandcap.com
 0.0.0.0 www.gekorn.com
+0.0.0.0 www.generaldocs.com
 0.0.0.0 www.gentleshadeox.pro
 0.0.0.0 www.getnexuscard.com
 0.0.0.0 www.gezinti.com
@@ -3396,9 +3412,11 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.higherteam.com
 0.0.0.0 www.hitchedbridalandformalwear.com
 0.0.0.0 www.hits-football.com
+0.0.0.0 www.homininfossil.cfd
 0.0.0.0 www.hugesector.com
 0.0.0.0 www.hunterspeed.com
 0.0.0.0 www.hypeprop.com
+0.0.0.0 www.hypetrust.com
 0.0.0.0 www.icecars.com
 0.0.0.0 www.icygrovejn.com
 0.0.0.0 www.icyhivemy.name
@@ -3410,6 +3428,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.informereng.com
 0.0.0.0 www.inkscape.es
 0.0.0.0 www.inkscape.fr
+0.0.0.0 www.instantcross.com
 0.0.0.0 www.invitegame.com
 0.0.0.0 www.iovenesweb.com
 0.0.0.0 www.irony.world
@@ -3428,6 +3447,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.keepass.fr
 0.0.0.0 www.keybinary.com
 0.0.0.0 www.khanomtour.com
+0.0.0.0 www.kindnations.com
 0.0.0.0 www.kindwebdg.site
 0.0.0.0 www.kittayaroyalbeauty.com
 0.0.0.0 www.kiwicares.com
@@ -3462,6 +3482,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.markethelper.name
 0.0.0.0 www.match3quests.com
 0.0.0.0 www.mediamindpolska.com
+0.0.0.0 www.megapurchase.com
 0.0.0.0 www.mikras.nl
 0.0.0.0 www.mildpost.com
 0.0.0.0 www.milkycascadeut.site
@@ -3471,6 +3492,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.monkeyball.osa.pl
 0.0.0.0 www.monkikitchen.com
 0.0.0.0 www.morvalent.uk
+0.0.0.0 www.mostexchange.com
 0.0.0.0 www.movielocks.com
 0.0.0.0 www.mshelp247.weebly.com
 0.0.0.0 www.msxzff.com
@@ -3480,7 +3502,9 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.myfavcouponstore.com
 0.0.0.0 www.mylike.co.uk			# Facebook trojan
 0.0.0.0 www.mylovecards.com
+0.0.0.0 www.neonpack.com
 0.0.0.0 www.neonracketpro.com
+0.0.0.0 www.newshello.com
 0.0.0.0 www.nobetsjustfun.com
 0.0.0.0 www.northvalesgrids.uk
 0.0.0.0 www.notepad2.com
@@ -3596,6 +3620,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.sporttile.com
 0.0.0.0 www.ssl2.in
 0.0.0.0 www.statsff.com
+0.0.0.0 www.steelbucks.com
 0.0.0.0 www.stellarium.fr
 0.0.0.0 www.stihil.com
 0.0.0.0 www.stocksrate.com
@@ -3616,6 +3641,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.tattooshaha.info			# Facebook trojan
 0.0.0.0 www.teafortune.com
 0.0.0.0 www.techadvisorpro.name
+0.0.0.0 www.technocost.com
 0.0.0.0 www.tenantbackgronudsearch.com
 0.0.0.0 www.thecollectiverd.com
 0.0.0.0 www.thedatesafe.com			# Facebook trojan
