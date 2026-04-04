@@ -10,7 +10,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Wed, 01 Apr 2026 at 00:17:23 GMT
+# Last updated: Fri, 03 Apr 2026 at 15:38:12 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1476,6 +1476,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 adquantum.fr
 0.0.0.0 adshufffle.com
 0.0.0.0 adwitty.com
+0.0.0.0 aesthetist.org
 0.0.0.0 africancasting.fr
 0.0.0.0 agelocer.fr
 0.0.0.0 agla.fr
@@ -1517,6 +1518,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 antispywareexpert.com
 0.0.0.0 antivirus-scanner.com
 0.0.0.0 antoinettepoisson.fr
+0.0.0.0 aosldz.com
 0.0.0.0 apconsultantgroup.com
 0.0.0.0 apel3.fr
 0.0.0.0 api.inwemo.com
@@ -1777,6 +1779,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 cndpt.fr
 0.0.0.0 cnhv.co
 0.0.0.0 cnnews.fr
+0.0.0.0 cnt-jrs.com
 0.0.0.0 cnt.statistic.date
 0.0.0.0 codebiogblog.com
 0.0.0.0 codeexplain.com
@@ -1852,6 +1855,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 dailygame.fr
 0.0.0.0 dailynewstonight.com
 0.0.0.0 dartry.fr
+0.0.0.0 data-ng28.com
 0.0.0.0 datajobs.fr
 0.0.0.0 davidhuynh.fr
 0.0.0.0 db-z.fr
@@ -2241,6 +2245,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 jump.ewoss.net
 0.0.0.0 juste.ru	# Twitter trojan
 0.0.0.0 juventuis.fr
+0.0.0.0 jzyygl.com
 0.0.0.0 kabookk.fr
 0.0.0.0 kanojo.fr
 0.0.0.0 kantoexuziiv.com
@@ -2443,6 +2448,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 matcheendirect.fr
 0.0.0.0 matchendirectr.fr
 0.0.0.0 matchendiredt.fr
+0.0.0.0 max-wangcai28.com
 0.0.0.0 mbi3.kuicr.kyoto-u.ac.jp
 0.0.0.0 mcleaks.fr
 0.0.0.0 mdjdg.girlssohorny.net
@@ -2820,6 +2826,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 restriia.shop
 0.0.0.0 resulabi.fr
 0.0.0.0 resultatspmu.fr
+0.0.0.0 resumekeeper.com
 0.0.0.0 retaildetail.fr
 0.0.0.0 retrofuture.fr
 0.0.0.0 return2025costco.com
@@ -2867,6 +2874,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 scotiahelp-loginscotia.com
 0.0.0.0 scotiaonline-verification.com
 0.0.0.0 scottishstuff-online.com	# Canadian bank phishing site
+0.0.0.0 scr-jiebaoscore.com
 0.0.0.0 screenaddict.thewhizproducts.com
 0.0.0.0 screencast-o-matic.fr
 0.0.0.0 scribbens.fr
@@ -2911,6 +2919,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 shopkeep.fr
 0.0.0.0 shopsm.fr
 0.0.0.0 shoptrends.fr
+0.0.0.0 shrsgame.com
 0.0.0.0 siexrlypbbvt.com
 0.0.0.0 sig.tecnologicosucre.edu.ec
 0.0.0.0 siliconf.fr
@@ -3039,6 +3048,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 ticketspy.fr
 0.0.0.0 tiku.io
 0.0.0.0 timberlande.fr
+0.0.0.0 tip-leisusports.com
 0.0.0.0 tiplanet.fr
 0.0.0.0 tnews.day
 0.0.0.0 toknowall.com
@@ -3068,6 +3078,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 tubr8.fr
 0.0.0.0 tuniaf.com
 0.0.0.0 turfomani.fr
+0.0.0.0 tv-jiangnantiyu.com
 0.0.0.0 tvshowslist.com
 0.0.0.0 tweetdeck.fr
 0.0.0.0 twitchindoor.best
@@ -3096,6 +3107,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 univevry.fr
 0.0.0.0 unme-asso.fr
 0.0.0.0 unodieuxconnard.fr
+0.0.0.0 update-expiry-notification-report.appwrite.network
 0.0.0.0 updateauto.preparevideosafesystem4unow.space
 0.0.0.0 uqz.com
 0.0.0.0 urbact.fr
@@ -3150,6 +3162,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 voipwise.fr
 0.0.0.0 volksvagen.fr
 0.0.0.0 volkswagens.fr
+0.0.0.0 vs-wending.com
 0.0.0.0 vxiframe.biz
 0.0.0.0 w3facility.org
 0.0.0.0 wagsandwhiskers.fr
@@ -3187,6 +3200,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 wileprefgurad.net
 0.0.0.0 willysy.com
 0.0.0.0 winns.fr
+0.0.0.0 with-anbo.com
 0.0.0.0 wizzshop.trade
 0.0.0.0 wk4x5rdtoz2tn0.com
 0.0.0.0 wnathan.fr
@@ -3218,6 +3232,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.adselector.com
 0.0.0.0 www.adshufffle.com
 0.0.0.0 www.aerodriftcore.uk
+0.0.0.0 www.agreementnow.com
 0.0.0.0 www.airmedcarennetwork.com
 0.0.0.0 www.airybotsh.pro
 0.0.0.0 www.airypathsq.name
@@ -3228,6 +3243,8 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.allscrabble.com
 0.0.0.0 www.allstateproteectionplans.com
 0.0.0.0 www.allusermanual.com
+0.0.0.0 www.amintart.com
+0.0.0.0 www.amomales.com
 0.0.0.0 www.anatol.com
 0.0.0.0 www.apcort.com
 0.0.0.0 www.aramcom.space
@@ -3242,6 +3259,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.availablefiles.com
 0.0.0.0 www.avemoo.com
 0.0.0.0 www.azureus.es
+0.0.0.0 www.bahartonu.com
 0.0.0.0 www.baiakstyle.com
 0.0.0.0 www.bandexperts.com
 0.0.0.0 www.barjacity.com
@@ -3266,6 +3284,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.brandsclothingco.com
 0.0.0.0 www.breakslavery.com
 0.0.0.0 www.brghterimagelab.com
+0.0.0.0 www.brightqz.com
 0.0.0.0 www.brightstardv.pro
 0.0.0.0 www.briidgeapp.com
 0.0.0.0 www.briskappmu.name
@@ -3283,6 +3302,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.carehigher.com
 0.0.0.0 www.carolmassoterapia.com
 0.0.0.0 www.cassink.com
+0.0.0.0 www.catabcde.com
 0.0.0.0 www.celestia.es
 0.0.0.0 www.celestia.fr
 0.0.0.0 www.centeralbidding.com
@@ -3290,6 +3310,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.checkpics.com
 0.0.0.0 www.chelick.net			# Facebook trojan
 0.0.0.0 www.chichomods.com
+0.0.0.0 www.chiefsale.com
 0.0.0.0 www.ciderbayoulg.pro
 0.0.0.0 www.ciderglowcm.site
 0.0.0.0 www.cidersunjt.com
@@ -3341,6 +3362,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.edashealthcare.com
 0.0.0.0 www.edwardmartino.com
 0.0.0.0 www.elanactivewear.com
+0.0.0.0 www.electrobell.com
 0.0.0.0 www.emailspend.com
 0.0.0.0 www.energiazoque.com
 0.0.0.0 www.ethicsstore.com
@@ -3348,6 +3370,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.exactpharm.com
 0.0.0.0 www.exambased.com
 0.0.0.0 www.expolearn.com
+0.0.0.0 www.exposhot.com
 0.0.0.0 www.expressmails.com
 0.0.0.0 www.exteriorteam.com
 0.0.0.0 www.extrabrick.com
@@ -3518,6 +3541,9 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.myfavcouponstore.com
 0.0.0.0 www.mylike.co.uk			# Facebook trojan
 0.0.0.0 www.mylovecards.com
+0.0.0.0 www.nabtapharma.com
+0.0.0.0 www.nanohistory.com
+0.0.0.0 www.nearestsalon.com
 0.0.0.0 www.neonpack.com
 0.0.0.0 www.neonracketpro.com
 0.0.0.0 www.newshello.com
@@ -3538,6 +3564,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.oletipmegroup.com
 0.0.0.0 www.olimpgokart.com
 0.0.0.0 www.oliviathemes.com
+0.0.0.0 www.onlinehint.com
 0.0.0.0 www.opalcasinohotel.com
 0.0.0.0 www.opencharms.com
 0.0.0.0 www.openinternetexchange.com
@@ -3618,10 +3645,12 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.salttm.com
 0.0.0.0 www.sandybellxb.site
 0.0.0.0 www.sandybrookyt.name
+0.0.0.0 www.scrapzoneauto.com
 0.0.0.0 www.securityscan.us
 0.0.0.0 www.sellpetrol.com
 0.0.0.0 www.sellrubber.com
 0.0.0.0 www.shinilchurch.net	# domain was hacked and had a trojan installed
+0.0.0.0 www.shopvisitors.com
 0.0.0.0 www.sidneyman.com
 0.0.0.0 www.silentgateck.site
 0.0.0.0 www.simplyartful.com
@@ -3664,6 +3693,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.techadvisorpro.name
 0.0.0.0 www.technocost.com
 0.0.0.0 www.technygrow.com
+0.0.0.0 www.techyscope.com
 0.0.0.0 www.tenantbackgronudsearch.com
 0.0.0.0 www.textdynamics.com
 0.0.0.0 www.thecollectiverd.com
@@ -3724,6 +3754,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.woodycrystaljo.name
 0.0.0.0 www.workschat.com
 0.0.0.0 www.wrestlewebnews.com
+0.0.0.0 www.xandermaker.com
 0.0.0.0 www.xtremetechcr.com
 0.0.0.0 www.yellowquartzkr.name
 0.0.0.0 www.yendermsoul.com
@@ -3766,7 +3797,9 @@ ff02::3		ip6-allhosts
 0.0.0.0 zendictees.fr
 0.0.0.0 zenigameblinger.org
 0.0.0.0 zettapetta.com
+0.0.0.0 zhunhesh.com
 0.0.0.0 zip.er.cz
+0.0.0.0 zjchao.com
 0.0.0.0 ztriskl.divisionfair.homes
 0.0.0.0 zzhc.vnet.cn
 0.0.0.0 zzkwg.comfortykive.xyz
