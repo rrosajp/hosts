@@ -52,6 +52,11 @@
               python3Packages.requests
             ];
           };
-        });
+        }
+      );
+
+      packages = forAllSystems (system: {
+        unbound = nixpkgsFor.${system}.callPackage ./unbound.nix { };
+      });
     };
 }

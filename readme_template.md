@@ -386,8 +386,10 @@ To install hosts file on your machine add the following into your
 
 ### Nix Flake
 
-NixOS installations which are managed through _flakes_ can use the hosts file
-like this:
+NixOS installations which are managed through _flakes_ can directly use the `flake.nix` in this repository as an input.
+
+It contains a `nixosModule` that can be used to install the `hosts` file locally, as well as a package containing config files for the [Unbound](https://github.com/NLnetLabs/unbound) DNS server to be used as blocklists.
+
 
 ```nix
 {
@@ -403,7 +405,9 @@ like this:
     nixosConfigurations.my-hostname = {
       system = "<architecture>";
       modules = [
-        hosts.nixosModule {
+        # nixosModule to install hosts file locally:
+        hosts.nixosModule
+        {
           networking.stevenBlackHosts = {
             enable = true;
             # optionally:
@@ -413,6 +417,19 @@ like this:
             # blockPorn = true;
             # blockSocial = true;
           };
+        }
+
+        # configure unbound to use config as blocklist:
+        {
+          {
+            services.unbound = {
+              enable = true;
+              settings.server.include = [
+                "${hosts.packages.${system}.unbound}/hosts"
+                # alternates are also available, e.g. /fakenews, /fakenews-gambling etc.
+              ];
+            };
+          }
         }
       ];
     };
